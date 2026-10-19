@@ -1,0 +1,14 @@
+{
+  "intake_path": "/Volumes/LaCie/law-intake/eu/de/gesetze/gii-nachwg.md",
+  "intake_sha256": "4e2bbcc03edf25bef15a498e318f7c08197b6cc936a587849c5819b8e5842b4c",
+  "intake_builddate": "20241231222227",
+  "xml_builddate": "20241231222227",
+  "normalized_unit_matches": {
+    "p1": true,
+    "p2": true,
+    "p3": true,
+    "p4": true,
+    "p5": true,
+    "p6": true
+  }
+}

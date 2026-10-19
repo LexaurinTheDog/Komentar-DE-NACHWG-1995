@@ -1,0 +1,20 @@
+{
+  "url": "https://www.gesetze-im-internet.de/owig_1968/__10.html",
+  "retrieved_at": "2026-10-19T12:37:47.770309+00:00",
+  "http_status": 200,
+  "headers": {
+    "Date": "Mon, 19 Oct 2026 12:37:47 GMT",
+    "Server": "Apache",
+    "Last-Modified": "Mon, 19 Oct 2026 00:20:10 GMT",
+    "ETag": "\"ddd-65e267a165a99\"",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "3549",
+    "Vary": "Accept-Encoding",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "sameorigin",
+    "X-XSS-Protection": "1; mode=block",
+    "Content-Type": "text/html",
+    "Connection": "close"
+  },
+  "sha256": "ce013250c990cbffabee86a043b180228bd1a458419ef6a2a076d7d49a64fb8a"
+}

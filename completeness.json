@@ -9,21 +9,30 @@
   "whitespace_independent_xml_equality": true,
   "commentary_chars": {
     "p1": 1333,
-    "p2": 3400,
+    "p2": 3898,
     "p3": 1830,
-    "p4": 1482,
+    "p4": 1808,
     "p5": 1432,
     "p6": 1367
   },
   "source_files_sha256": {
     "8-azr-4-21.html": "f95818f0f4a1f5859c62a2ddab62c437089ccf9e69cb5daf6cc20bff5dde7864",
     "8-azr-4-21.json": "e65dfa0a6bbe7a6d7ba7ef1ffd2e473fdda59adccaf8a3a25369dac7f004eb99",
-    "8-azr-4-21.txt": "101a787bee95bc9db1bd7ccb84754271e14d6b4b61a6f7346af9638a8e47de6d",
+    "8-azr-4-21.txt": "b0e5a7563ea256083956a0bb60734e75d1fc2bfd74512607c13af9f51cf86288",
+    "amtlicher-vorspann.txt": "9fa4b22dfe221d0432baab412ad495d25c263ff4e97de31707fe4352018e9535",
     "canonical.md": "6667b94d182b7af3587b5390c6713c634c6dc826d2e37f456f4cea753cc06955",
     "case.md": "8ddce69debb6932bd030aed42a981c969604f2d4c72c70dfc6d582257c728b7b",
     "official.xml": "5892f4d805acad3095889b7d49ba2bfe982886366bbdfc8f6f84410c4c229ac6",
     "official.zip": "92f1b2f5aecccde881bc59a90efccf424869258744e1a12c130a59cc2bf6e4d4",
+    "review-8-azr-4-21.html": "f95818f0f4a1f5859c62a2ddab62c437089ccf9e69cb5daf6cc20bff5dde7864",
+    "review-8-azr-4-21.txt": "e68d895b5a0f1c9fa53b91d52cd4217a6a0e47be37cf18753bd129f4129ef89f",
+    "review-intake-comparison.json": "bc25535a960e16ce5c03713390666ef535b403e0ae109354c58a5fb50293991b",
+    "review-law.zip": "92f1b2f5aecccde881bc59a90efccf424869258744e1a12c130a59cc2bf6e4d4",
+    "review-official.xml": "5892f4d805acad3095889b7d49ba2bfe982886366bbdfc8f6f84410c4c229ac6",
+    "review-owig-10.html": "ce013250c990cbffabee86a043b180228bd1a458419ef6a2a076d7d49a64fb8a",
+    "review-owig-10.json": "d3ef0a68a15fe313b5bb9f5936fa58058cd72e28c901535a6308da25ac3f86be",
     "search.json": "07e2e56033182c4721673c6c3f0c7bc0428e1fbb23f02f0cebe62940033ec108",
+    "second-pass-verification.json": "e60011a85a4f6fc86bdea6f6d5e55ecf7c2aadfa25f635ef91f1672cc6bff437",
     "verification.json": "50416731772eb8ec0b1aefb8196322e870db552e3c1335f4a3ffd92ca6ec56c9"
   }
 }

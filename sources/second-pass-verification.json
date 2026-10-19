@@ -1,0 +1,51 @@
+[
+  {
+    "name": "law",
+    "url": "https://www.gesetze-im-internet.de/nachwg/xml.zip",
+    "retrieved_at": "2026-10-19T12:37:06.109291+00:00",
+    "http_status": 200,
+    "sha256": "92f1b2f5aecccde881bc59a90efccf424869258744e1a12c130a59cc2bf6e4d4",
+    "file": "review-law.zip",
+    "headers": {
+      "Date": "Mon, 19 Oct 2026 12:37:06 GMT",
+      "Server": "Apache",
+      "Last-Modified": "Tue, 31 Dec 2024 21:22:27 GMT",
+      "ETag": "\"12e3-62a9786a8637a\"",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "4835",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "sameorigin",
+      "X-XSS-Protection": "1; mode=block",
+      "Content-Type": "application/zip",
+      "Connection": "close"
+    },
+    "xml_sha256": "5892f4d805acad3095889b7d49ba2bfe982886366bbdfc8f6f84410c4c229ac6",
+    "matches_authoring_xml": true,
+    "builddate": "20241231222227",
+    "metadata": "<metadaten><jurabk>NachwG</jurabk><amtabk>NachwG</amtabk><ausfertigung-datum manuell=\"ja\">1995-07-20</ausfertigung-datum><fundstelle typ=\"amtlich\"><periodikum>BGBl I</periodikum><zitstelle>1995, 946</zitstelle></fundstelle><kurzue>Nachweisgesetz</kurzue><langue>Gesetz über den Nachweis der für ein Arbeitsverhältnis geltenden\nwesentlichen Bedingungen</langue><standangabe checked=\"ja\"><standtyp>Stand</standtyp><standkommentar>Zuletzt geändert durch Art. 50 G v. 23.10.2024 I Nr. 323</standkommentar></standangabe></metadaten>"
+  },
+  {
+    "name": "8-azr-4-21",
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-4-21/",
+    "retrieved_at": "2026-10-19T12:37:06.544084+00:00",
+    "http_status": 200,
+    "sha256": "f95818f0f4a1f5859c62a2ddab62c437089ccf9e69cb5daf6cc20bff5dde7864",
+    "file": "review-8-azr-4-21.html",
+    "headers": {
+      "Server": "nginx",
+      "Date": "Mon, 19 Oct 2026 12:37:06 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "130271",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "Age": "626",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+      "X-Varnish-Cache": "HIT",
+      "X-Cacheable": "YES",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Accept-Ranges": "bytes"
+    },
+    "paragraphs": 32
+  }
+]

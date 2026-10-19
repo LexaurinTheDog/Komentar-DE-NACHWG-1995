@@ -15,3 +15,7 @@ Die Kommentierung entwickelt Voraussetzungen, Rechtsfolgen, systematische Bezüg
 ## Qualität und Nutzung
 
 Status: Entwurf, technisch validiert, nicht extern fachlich begutachtet. Die Kapitelcheckliste dokumentiert Abdeckung und redaktionelle Eigenkontrolle; eine Mindestzeichenzahl ist kein Qualitätsnachweis. Vor konkreter Beratung sind neue Änderungen, der entscheidungserhebliche Zeitraum, Tatsachen und einschlägige zusätzliche Rechtsprechung zu prüfen. Quellenstand ist der Abrufzeitpunkt, kein Versprechen zukünftiger Aktualisierung.
+
+## Zweiter Prüfdurchgang
+
+Am 19.10.2026 wurden sämtliche Paragraphen in einem unabhängigen zweiten Agentendurchgang am Manuskript und seinen Quellen geprüft und dokumentierte Korrekturen eingearbeitet. [Prüfbericht](REVIEW.md). Dies ist keine externe fachliche oder anwaltliche Freigabe; die selektiven Recherchegrenzen bleiben bestehen.
