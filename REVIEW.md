@@ -35,7 +35,7 @@ BAG 8 AZR 4/21 wurde im amtlichen Volltext geprüft, insbesondere Rn. 12–22 un
 
 ## Abschluss und verbleibende Grenzen
 
-Alle Einheiten sind inhaltlich geprüft und die festgestellten Punkte korrigiert. Neuaufbau, Quellenkopien, lokaler Commit und strenge Validierung werden im maschinenlesbaren Ergebnis des Arbeitsverzeichnisses dokumentiert. Keine Veröffentlichung, kein Push. Es verbleiben keine materiellen Blocker innerhalb des ausgewiesenen Prüfumfangs.
+Alle Einheiten sind inhaltlich geprüft und die festgestellten Punkte korrigiert. Neuaufbau, Quellenkopien und lokaler Commit sind abgeschlossen. Die strenge Validierung besteht mit 100 % Wortlautübereinstimmung, ohne Fehler und ohne Warnungen. Die ergänzende Prüfung bestätigt vollständige Identifierfolge, Kommentarübernahme, Quellen-Hashes, identische Entscheidungsabsätze bei erneutem Abruf sowie funktionierende lokale Links. Die maschinenlesbaren Ergebnisse stehen im Arbeitsverzeichnis in `review-result.json` und `review-checks.json`. Keine Veröffentlichung, kein Push. Es verbleiben keine materiellen Blocker innerhalb des ausgewiesenen Prüfumfangs.
 
 - Keine externe anwaltliche oder sonstige professionelle Freigabe; unabhängiger zweiter Agentendurchgang zu einem fremd verfassten Manuskript.
 - Rechtsprechung selektiv; keine neue umfassende Suche zu sämtlichen Paragraphen oder späterer Rechtsprechung.
