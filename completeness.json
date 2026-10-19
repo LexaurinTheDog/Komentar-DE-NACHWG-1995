@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "errors": [],
+  "xml_statutory_units": 6,
+  "parsed_units": 6,
+  "commented_units": 6,
+  "annexes": 0,
+  "repealed": [],
+  "whitespace_independent_xml_equality": true,
+  "commentary_chars": {
+    "p1": 1333,
+    "p2": 3400,
+    "p3": 1830,
+    "p4": 1482,
+    "p5": 1432,
+    "p6": 1367
+  },
+  "source_files_sha256": {
+    "8-azr-4-21.html": "f95818f0f4a1f5859c62a2ddab62c437089ccf9e69cb5daf6cc20bff5dde7864",
+    "8-azr-4-21.json": "e65dfa0a6bbe7a6d7ba7ef1ffd2e473fdda59adccaf8a3a25369dac7f004eb99",
+    "8-azr-4-21.txt": "101a787bee95bc9db1bd7ccb84754271e14d6b4b61a6f7346af9638a8e47de6d",
+    "canonical.md": "6667b94d182b7af3587b5390c6713c634c6dc826d2e37f456f4cea753cc06955",
+    "case.md": "8ddce69debb6932bd030aed42a981c969604f2d4c72c70dfc6d582257c728b7b",
+    "official.xml": "5892f4d805acad3095889b7d49ba2bfe982886366bbdfc8f6f84410c4c229ac6",
+    "official.zip": "92f1b2f5aecccde881bc59a90efccf424869258744e1a12c130a59cc2bf6e4d4",
+    "search.json": "07e2e56033182c4721673c6c3f0c7bc0428e1fbb23f02f0cebe62940033ec108",
+    "verification.json": "50416731772eb8ec0b1aefb8196322e870db552e3c1335f4a3ffd92ca6ec56c9"
+  }
+}
