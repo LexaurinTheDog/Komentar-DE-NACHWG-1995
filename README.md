@@ -14,7 +14,7 @@ Der Wortlaut wurde mechanisch aus der am Prüfdatum abgerufenen [amtlichen XML-D
 
 Der Kommentar enthält ausgewählte, anhand amtlicher Volltexte verifizierte Rechtsprechung. Die Recherche ist thematisch begrenzt und nicht erschöpfend. Normtext, gerichtliche Aussage und eigene Auslegung werden getrennt. Nicht jede Vorschrift besitzt eine eigene Gerichtsentscheidung in dieser Ausgabe.
 
-Kommentartext © 2026 Vojtěch Říha. Lizenz: [Apache-2.0](LICENSE). Projektprofil: [LexaurinTheDog](https://github.com/LexaurinTheDog). Bereitstellung ohne Gewähr; keine individuelle Rechtsberatung. Technische Validierung belegt weder materielle Fehlerfreiheit noch eine externe professionelle Prüfung. Es erfolgte kein Push.
+Kommentartext © 2026 Vojtěch Říha. Lizenz: [Apache-2.0](LICENSE). Projektprofil: [LexaurinTheDog](https://github.com/LexaurinTheDog). Bereitstellung ohne Gewähr; keine individuelle Rechtsberatung. Technische Validierung belegt weder materielle Fehlerfreiheit noch eine externe professionelle Prüfung.
 
 ## Zweiter Prüfdurchgang
 
